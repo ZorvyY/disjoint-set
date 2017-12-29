@@ -62,6 +62,7 @@ void show_set() {
 int main(void)
 {
     make_set();
+    // This loop allows you to mess around with the set 
     while(true) {
         string temp;
         cin >> temp;
